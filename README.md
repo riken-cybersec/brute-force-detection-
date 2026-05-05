@@ -53,13 +53,13 @@ Successfully simulated and detected brute force login attempts using log analysi
 ## 📸 Screenshots 
 
 ### Failed login attempts
-![](Screenshots/failed login attempts.png)
+![](Screenshots/attempt.png)
 
 ### Authentication failure logs  
-![](Screenshots/Authentication failure logs.png)
+![](Screenshots/auth_logs.png)
 
 ### Count of failed attempts
-![](screenshots/Count of failed attempts.png)
+![](screenshots/Count.png)
 
 ---
 ## ⚠️ Note
