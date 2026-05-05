@@ -50,10 +50,16 @@ bash - journalctl | grep "authentication failure" | wc -l
 Successfully simulated and detected brute force login attempts using log analysis techniques.
 
 ---
-## 📸 Screenshots
-- Failed login attempts (su root)  
-- Authentication failure logs  
-- Count of failed attempts  
+## 📸 Screenshots 
+
+### Failed login attempts
+![](Screenshots/failed login attempts.png)
+
+### Authentication failure logs  
+![](Screenshots/Authentication failure logs.png)
+
+### Count of failed attempts
+![](screenshots/Count of failed attempts.png)
 
 ---
 ## ⚠️ Note
