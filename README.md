@@ -59,7 +59,12 @@ Successfully simulated and detected brute force login attempts using log analysi
 ![](Screenshots/auth_logs.png)
 
 ### Count of failed attempts
-![](screenshots/Count.png)
+![](Screenshots/Count.png)
+---
+
+---
+ ## 👨‍💻 Author
+Riken Patel
 
 ---
 ## ⚠️ Note
